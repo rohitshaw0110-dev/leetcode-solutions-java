@@ -1,2 +1,2 @@
 # leetcode-solutions-java
-My Java solutions with explanations for selected LeetCode problems.
+This repository contains my Java solutions to selected LeetCode problems, documented with explanations to help improve problem-solving skills and prepare for software developer interviews.

@@ -1,4 +1,4 @@
-🔍 Problem Summary
+Merge Sorted Array 🔍 Problem Summary
 
 You are given two sorted arrays:
 

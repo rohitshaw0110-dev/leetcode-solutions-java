@@ -4,5 +4,9 @@ This repository contains my Java solutions to selected LeetCode problems, docume
 ## Solved Problems
 
 ### Arrays
-- Merge Sorted Array
-- Remove Element
+- MajorityElement
+- MergeSortedArray
+- RemoveDuplicatesfromSortedArray
+- RemoveDuplicatesfromSortedArrayII
+- RemoveElement
+- RotateArray

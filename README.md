@@ -4,9 +4,10 @@ This repository contains my Java solutions to selected LeetCode problems, docume
 ## Solved Problems
 
 ### Arrays
-- MajorityElement
-- MergeSortedArray
-- RemoveDuplicatesfromSortedArray
-- RemoveDuplicatesfromSortedArrayII
-- RemoveElement
-- RotateArray
+- Majority Element
+- Merge Sorted Array
+- Remove Duplicates from Sorted Array
+- Remove Duplicates from Sorted Array II
+- Remove Element
+- Rotate Array
+- Best Time to Buy and Sell Stock

@@ -12,3 +12,4 @@ This repository contains my Java solutions to selected LeetCode problems, docume
 - Rotate Array
 - Best Time to Buy and Sell Stock
 - Best Time to Buy and Sell Stock II
+- Jump Game
